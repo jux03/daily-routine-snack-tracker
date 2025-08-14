@@ -8,7 +8,7 @@ import Progress from './pages/Progress.jsx';
 import Settings from './pages/Settings.jsx';
 import Scan from './pages/Scan.jsx';
 
-export default function App() {
+export default function App() {  
   return (
     <BrowserRouter>
       <div className="min-h-full">
